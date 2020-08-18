@@ -1,8 +1,8 @@
 River,Sample Point,Month,Year,Temp,PH,EC,Chloride,T_Alkalinity,Turbidity,TS,TDS,SS,DO,BOD5,COD
-Turag River,Asshulia BIWTA Landing Station ,1,2017,18.4,7.81,557,49,260,54,359,314,45,0,28.2,113
+Turag River,Asshulia BIWTA Landing Station,1,2017,18.4,7.81,557,49,260,54,359,314,45,0,28.2,113
 Turag River,Tongi Istima Mat,1,2017,18.6,8.13,813,52,280,56,516,464,52,0,30.8,121
-Turag River,Mirpur Diabari BIWTA Landing Station  ,1,2017,18.4,7.52,702,433,395,38,62,210,48,0,11.2,54
-Balu River,"Near Hossain Dyeing Ltd,",1,2017,18.2,7.45,688,432,390,42,57,230,52,0,14.2,61
+Turag River,Mirpur Diabari BIWTA Landing Station,1,2017,18.4,7.52,702,433,395,38,62,210,48,0,11.2,54
+Balu River,"Near Hossain Dyeing Ltd",1,2017,18.2,7.45,688,432,390,42,57,230,52,0,14.2,61
 Balu River,"Near Balu Bridge, 300 feet Road,  Dhaka",1,2017,18.1,7.68,689,431,391,40,56,220,54,0,12.2,38
 Shitalakhya River, Demra Ghat.,1,2017,18.8,7.24,590,314,387,73,220,38,12,0,20.4,68
 Shitalakhya River," Near , Ghorashal Fertilizer Factory.",1,2017,18.3,7.59,611,230,200,30,170,15,3.4,3.4,8.4,24
