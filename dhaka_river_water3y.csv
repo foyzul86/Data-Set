@@ -30,10 +30,10 @@ Shitalakhya River,Near Kachpur Bridge,2,2017,27.4,7.83,1012,506,702,196,270,104,
 Buriganga River,Mirpur Bridge,2,2017,20.8,7.14,904,398,484,118,49,280,75,0.2,18.6,72
 Buriganga River,Hazaribagh. .,2,2017,21,7.25,902,399,497,95,67,274,55,0,20.6,61
 Buriganga River,Kamrangir Char.,2,2017,20.8,7.31,850,394,473,80,63,282,65,0,13.7,36
-Buriganga River,Chadnighat. . ,2,2017,21.2,7.35,856,436,477,95,65,284,55,0,25,67
-Buriganga River,"Sadar Ghat, ",2,2017,21.1,7.35,848,403,472,102,61,280,80,0.5,25,77
-Buriganga River,"Dholaikhal, ",2,2017,21,7.26,849,389,472,95,66,282,80,0,22.6,82
-Buriganga River,"Bangladesh China Friendship Bridge, ",2,2017,20.8,7.18,900,399,498,86,65,270,50,0,20.9,77
+Buriganga River,Chadnighat ,2,2017,21.2,7.35,856,436,477,95,65,284,55,0,25,67
+Buriganga River,"Sadar Ghat ",2,2017,21.1,7.35,848,403,472,102,61,280,80,0.5,25,77
+Buriganga River,"Dholaikhal ",2,2017,21,7.26,849,389,472,95,66,282,80,0,22.6,82
+Buriganga River,"Bangladesh China Friendship Bridge ",2,2017,20.8,7.18,900,399,498,86,65,270,50,0,20.9,77
 Buriganga River,Pagla. ,2,2017,20.8,7.13,764,409,423,86,63,258,80,0,24.8,59
 Turag River,Near Gabtoli Bridge ,3,2017,27,7.63,1219,74,286,150,678,608,170,0.73,28.2,62
 Turag River,Mirpur Diabari BIWTA Landing Station  ,3,2017,26.6,7.42,1345,73,278,210,818,638,180,0.89,30.8,105
@@ -115,85 +115,85 @@ Balu River,Near Jabar & Jubair Fabrics Ltd. Tongi.,7,2017,30.4,7.51,277,8,80,13,
 Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi.",7,2017,29.8,7.31,148,7,60,13.3,85.3,76.4,9,4.8,1.4,7
 Balu River,"Near Damra University College, Demra Dhaka",7,2017,30.1,7.18,203,10,80,20.5,119,100.9,18,3.1,3.8,26
 Shitalakhya River,Demra Ghat.,7,2017,29.8,7.68,118.5,9,50,21.5,83.2,58.2,25,4.7,2.8,18
-Shitalakhya River,Near Ghorashal Fertilizer Factory.,7,2017,30.2,7.23,122.2,6,56,30.4,93.9,59.9,34,5.6,1,NAN
+Shitalakhya River,Near Ghorashal Fertilizer Factory.,7,2017,30.2,7.23,122.2,6,56,30.4,93.9,59.9,34,5.6,1,11
 Buriganga River,Mirpur Bridge,7,2017,30,7.89,172.1,6.6,48,35.6,124,86.5,38,4.93,7.2,24
 Buriganga River,Hazaribagh. .,7,2017,30.2,6.88,163,7,50,30.2,118,82.1,36,3.94,4.8,12.4
-Buriganga River,Kamrangir Char.,7,2017,30.2,6.8,163.7,6,50,24.2,112,82.4,30,3.47,3.6,NAN
+Buriganga River,Kamrangir Char.,7,2017,30.2,6.8,163.7,6,50,24.2,112,82.4,30,3.47,3.6,30
 Buriganga River,Chadnighat. . ,7,2017,29.9,6.94,167.1,6,52,23.2,116,84.2,32,3.63,10.8,34
 Buriganga River,"Sadar Ghat, ",7,2017,29.9,6.85,168.8,7,50,25.6,118,85,33,3.49,3.8,10
 Buriganga River,"Dholaikhal, ",7,2017,29.8,6.83,165.4,7,50,17.4,106,83.1,23,3.66,6.2,14.3
-Buriganga River,"Bangladesh China Friendship Bridge, ",7,2017,30.2,6.82,164.4,7,48,20.7,106,82.5,24,3.27,5.6,24
-Buriganga River,Pagla. ,7,2017,30.2,6.76,165.4,6,50,20.4,117,82.9,34,3.29,4.8,14.4
+Buriganga River,"Bangladesh China Friendship Bridge,7,2017,30.2,6.82,164.4,7,48,20.7,106,82.5,24,3.27,5.6,24
+Buriganga River,Pagla,7,2017,30.2,6.76,165.4,6,50,20.4,117,82.9,34,3.29,4.8,14.4
 Turag River,Near Gabtoli Bridge ,8,2017,29.8,7,131.2,6,60,36.2,104,65.7,39,4.4,1.4,7
 Turag River,Mirpur Diabari BIWTA Landing Station  ,8,2017,29.6,7.09,142.3,8,59,34.2,107.5,72.5,35,4.3,1.8,7
 Turag River,Asshulia BIWTA Landing Station ,8,2017,29.8,7.15,127.8,7,62,35,102.2,65.2,37,4.8,2.2,7
 Turag River,Tongi Istima Mat,8,2017,30,7.26,122.9,6,56,34.6,97.5,62.5,35,4.7,2.2,7
 Balu River,"Near Damra University College, Demra Dhaka",8,2017,29.8,6.94,179.3,8,64,10.2,124,92.1,32,5.2,3.8,16
-Shitalakhya River,Demra Ghat.,8,2017,29.8,7.07,114.1,8,74,NAN,110,58.3,32,5.1,5,5
+Shitalakhya River,Demra Ghat.,8,2017,29.8,7.07,114.1,8,74,22,110,58.3,32,5.1,5,5
 Shitalakhya River,Near ACI Factory.,8,2017,30.8,7.25,130.4,16,80,28.6,100,70.8,30,5.4,1.6,10
-Buriganga River,Mirpur Bridge,8,2017,30,7.89,164.4,10,56,35.6,120,82,38,4.08,1,NAN
-Buriganga River,Hazaribagh. .,8,2017,30.2,6.88,172.1,7,54,30.2,122,86,36,4.06,1.5,NAN
-Buriganga River,Kamrangir Char.,8,2017,30,6.8,163,5,48,24.2,111,81,30,3.43,2.1,NAN
-Buriganga River,Chadnighat. . ,8,2017,30.4,7.1,157.7,5,50,23.2,110,78,32,3.32,1.8,NAN
-Buriganga River,"Sadar Ghat, ",8,2017,30.2,7.15,159.8,4,52,25.6,113,80,33,3.68,2.4,NAN
-Buriganga River,"Dholaikhal, ",8,2017,30.3,7.29,159.4,6,54,17.4,103,80,23,2.46,1.5,12
-Buriganga River,"Bangladesh China Friendship Bridge, ",8,2017,30.6,6.97,168.2,5,54,20.7,108,84,24,3.1,2.4,NAN
-Buriganga River,Pagla. ,8,2017,30.3,7.5,160.2,6,50,20.4,114,80.8,34,3.65,2.7,NAN
-Turag River,Near Gabtoli Bridge ,9,2017,29.8,7.95,118.5,6,50,27.3,93.8,61.8,32,4.8,1.2,NAN
-Turag River,Mirpur Diabari BIWTA Landing Station  ,9,2017,29.6,7.55,136.3,12,54,25.3,100.8,71.8,29,4.7,1.4,NAN
-Turag River,Asshulia BIWTA Landing Station ,9,2017,29.8,7.36,116,8,46,22.6,87.4,60.4,27,4.8,2,NAN
-Turag River,Tongi Istima Mat,9,2017,30,7.3,116,5,48,30.4,97.1,60.1,37,4.5,1.2,NAN
-Balu River,Near Jabar & Jubair Fabrics Ltd. Tongi.,9,2017,29.8,7.26,192.1,8,58,22.3,126.1,100.1,26,4.7,1.2,NAN
-Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi.",9,2017,29.5,7.24,182.2,7,60,22.8,126.2,95.2,31,4.8,2,NAN
-Buriganga River,Mirpur Bridge,9,2017,31,7.58,154.8,8,44,20.3,105.5,77.5,28,4.54,0.8,NAN
-Buriganga River,Hazaribagh. .,9,2017,31,7.43,161.9,8,48,16,100,81,19,3.71,1.4,NAN
-Buriganga River,Kamrangir Char.,9,2017,31,7.36,162.7,7,46,15.9,99.4,81.4,18,3.46,2,NAN
-Buriganga River,Chadnighat. . ,9,2017,31.2,7.13,151.2,6,42,16.7,95.1,76.1,19,2.18,1.2,NAN
-Buriganga River,"Sadar Ghat, ",9,2017,31.7,7.13,163.7,7,46,16.8,105.1,82.1,23,3.09,1.2,NAN
-Buriganga River,"Dholaikhal, ",9,2017,31.9,7.09,166.8,7,46,10.6,94.8,83.8,11,2.88,1.2,NAN
-Buriganga River,"Bangladesh China Friendship Bridge, ",9,2017,31.7,7.25,165.4,8,44,13.2,100.6,82.6,18,3.05,2,NAN
-Buriganga River,Pagla. ,9,2017,31,7.46,170.8,6,44,12.2,100.1,86.1,14,2.6,1.8,NAN
+Buriganga River,Mirpur Bridge,8,2017,30,7.89,164.4,10,56,35.6,120,82,38,4.08,1,25
+Buriganga River,Hazaribagh,8,2017,30.2,6.88,172.1,7,54,30.2,122,86,36,4.06,1.5,12
+Buriganga River,Kamrangir Char.,8,2017,30,6.8,163,5,48,24.2,111,81,30,3.43,2.1,10
+Buriganga River,Chadnighat,8,2017,30.4,7.1,157.7,5,50,23.2,110,78,32,3.32,1.8,33
+Buriganga River,"Sadar Ghat,8,2017,30.2,7.15,159.8,4,52,25.6,113,80,33,3.68,2.4,10
+Buriganga River,"Dholaikhal,8,2017,30.3,7.29,159.4,6,54,17.4,103,80,23,2.46,1.5,12
+Buriganga River,"Bangladesh China Friendship Bridge,8,2017,30.6,6.97,168.2,5,54,20.7,108,84,24,3.1,2.4,24
+Buriganga River,Pagla,8,2017,30.3,7.5,160.2,6,50,20.4,114,80.8,34,3.65,2.7,14.4
+Turag River,Near Gabtoli Bridge,9,2017,29.8,7.95,118.5,6,50,27.3,93.8,61.8,32,4.8,1.2,7
+Turag River,Mirpur Diabari BIWTA Landing Station,9,2017,29.6,7.55,136.3,12,54,25.3,100.8,71.8,29,4.7,1.4,10
+Turag River,Asshulia BIWTA Landing Station,9,2017,29.8,7.36,116,8,46,22.6,87.4,60.4,27,4.8,2,15
+Turag River,Tongi Istima Mat,9,2017,30,7.3,116,5,48,30.4,97.1,60.1,37,4.5,1.2,12
+Balu River,Near Jabar & Jubair Fabrics Ltd. Tongi,9,2017,29.8,7.26,192.1,8,58,22.3,126.1,100.1,26,4.7,1.2,27
+Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi,9,2017,29.5,7.24,182.2,7,60,22.8,126.2,95.2,31,4.8,2,14
+Buriganga River,Mirpur Bridge,9,2017,31,7.58,154.8,8,44,20.3,105.5,77.5,28,4.54,0.8,12
+Buriganga River,Hazaribagh,9,2017,31,7.43,161.9,8,48,16,100,81,19,3.71,1.4,13
+Buriganga River,Kamrangir Char,9,2017,31,7.36,162.7,7,46,15.9,99.4,81.4,18,3.46,2,10
+Buriganga River,Chadnighat,9,2017,31.2,7.13,151.2,6,42,16.7,95.1,76.1,19,2.18,1.2,11
+Buriganga River,"Sadar Ghat,9,2017,31.7,7.13,163.7,7,46,16.8,105.1,82.1,23,3.09,1.2,13
+Buriganga River,"Dholaikhal,9,2017,31.9,7.09,166.8,7,46,10.6,94.8,83.8,11,2.88,1.2,15
+Buriganga River,"Bangladesh China Friendship Bridge, ",9,2017,31.7,7.25,165.4,8,44,13.2,100.6,82.6,18,3.05,2,12
+Buriganga River,Pagla ,9,2017,31,7.46,170.8,6,44,12.2,100.1,86.1,14,2.6,1.8,10
 Turag River,Near Gabtoli Bridge ,10,2017,29.8,7.47,150.6,6,38,26,103.5,75.5,28,5.12,1.2,10
-Turag River,Mirpur Diabari BIWTA Landing Station  ,10,2017,29.6,7.3,165.6,14,40,28.1,114.6,83.6,31,5,1.4,10
-Turag River,Asshulia BIWTA Landing Station ,10,2017,30.3,7.49,145.6,8,42,28,107.2,73.2,34,5.87,1.2,15
+Turag River,Mirpur Diabari BIWTA Landing Station,10,2017,29.6,7.3,165.6,14,40,28.1,114.6,83.6,31,5,1.4,10
+Turag River,Asshulia BIWTA Landing Station,10,2017,30.3,7.49,145.6,8,42,28,107.2,73.2,34,5.87,1.2,15
 Turag River,Tongi Istima Mat,10,2017,30.3,7.79,147.8,5,44,42.6,122,74.1,48,5.09,1.6,12
-Balu River,Near Jabar & Jubair Fabrics Ltd. Tongi.,10,2017,29.8,7.38,259,8,50,28.9,159,130,29,4.33,1.2,27
-Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi.",10,2017,30,7.37,179.7,7,42,26.2,120,90,30,3.76,1.4,15
-Balu River,"Near Damra University College, Demra Dhaka",10,2017,29.8,7.28,166,8,42,19.4,100.7,83.7,17,5.2,1.2,10
-Shitalakhya River,Demra Ghat.,10,2017,29.6,7.38,131.7,11,42,14,85.2,66.2,19,5,2.8,15
+Balu River,Near Jabar & Jubair Fabrics Ltd. Tongi,10,2017,29.8,7.38,259,8,50,28.9,159,130,29,4.33,1.2,27
+Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi,10,2017,30,7.37,179.7,7,42,26.2,120,90,30,3.76,1.4,15
+Balu River,"Near Damra University College, Demra Dhaka,10,2017,29.8,7.28,166,8,42,19.4,100.7,83.7,17,5.2,1.2,10
+Shitalakhya River,Demra Ghat,10,2017,29.6,7.38,131.7,11,42,14,85.2,66.2,19,5,2.8,15
 Shitalakhya River,Near Ghorashal Fertilizer Factory.,10,2017,29.8,7.49,121.7,8,36,36,100.2,61.2,39,5,2.4,10
 Buriganga River,Mirpur Bridge,10,2017,26.2,7.93,155.2,8,40,25.8,128,71.7,57,5.58,1.8,12
-Buriganga River,Hazaribagh. .,10,2017,26.6,7.23,183.2,9,42,24.6,140.4,84.4,56,4.73,2.1,12
-Buriganga River,Kamrangir Char.,10,2017,26.3,7.28,175.2,8,60,21.6,135.1,81.1,54,3.82,1.8,10
-Buriganga River,Chadnighat. . ,10,2017,26,7.67,173.5,9,46,20,132.7,80.7,52,3.33,2.4,10
-Buriganga River,"Sadar Ghat, ",10,2017,26.3,7.42,175.1,9,44,19.8,134,84,53,4.57,1.8,12
-Buriganga River,"Dholaikhal, ",10,2017,27,7.42,199.6,10,42,21.9,144.2,91.2,53,3.07,1.6,27
-Buriganga River,"Bangladesh China Friendship Bridge, ",10,2017,25.9,7.6,177.6,10,44,19.9,134.8,82.8,52,3.13,2.2,10
-Buriganga River,Pagla. ,10,2017,26.9,7.22,188.6,9,46,21,139.2,87.2,52,4.1,1.8,10
-Turag River,Near Gabtoli Bridge ,11,2017,26.9,7.31,155.1,8,70,18.2,106,80,26,4.8,4.8,13
-Turag River,Mirpur Diabari BIWTA Landing Station  ,11,2017,26.8,7.12,164.1,9,72,21.5,112.8,84.8,28,4.2,5.2,16
-Turag River,Asshulia BIWTA Landing Station ,11,2017,26.8,7.25,129.8,7,68,17.8,90.9,66.9,24,4.9,4.8,13
+Buriganga River,Hazaribagh,10,2017,26.6,7.23,183.2,9,42,24.6,140.4,84.4,56,4.73,2.1,12
+Buriganga River,Kamrangir Char,10,2017,26.3,7.28,175.2,8,60,21.6,135.1,81.1,54,3.82,1.8,10
+Buriganga River,Chadnighat,10,2017,26,7.67,173.5,9,46,20,132.7,80.7,52,3.33,2.4,10
+Buriganga River,"Sadar Ghat,10,2017,26.3,7.42,175.1,9,44,19.8,134,84,53,4.57,1.8,12
+Buriganga River,"Dholaikhal,10,2017,27,7.42,199.6,10,42,21.9,144.2,91.2,53,3.07,1.6,27
+Buriganga River,"Bangladesh China Friendship Bridge,10,2017,25.9,7.6,177.6,10,44,19.9,134.8,82.8,52,3.13,2.2,10
+Buriganga River,Pagla,10,2017,26.9,7.22,188.6,9,46,21,139.2,87.2,52,4.1,1.8,10
+Turag River,Near Gabtoli Bridge,11,2017,26.9,7.31,155.1,8,70,18.2,106,80,26,4.8,4.8,13
+Turag River,Mirpur Diabari BIWTA Landing Station,11,2017,26.8,7.12,164.1,9,72,21.5,112.8,84.8,28,4.2,5.2,16
+Turag River,Asshulia BIWTA Landing Station,11,2017,26.8,7.25,129.8,7,68,17.8,90.9,66.9,24,4.9,4.8,13
 Turag River,Tongi Istima Mat,11,2017,26.7,7.22,147.8,8,64,21.2,105.7,87.7,18,5.1,4.8,10
 Balu River,"Near Damra University College, Demra Dhaka",11,2017,28.1,7.28,166,10,72,19.4,100.7,83.7,17,5.2,1.2,10
 Buriganga River,Mirpur Bridge,11,2017,27.5,7.13,330,17,62,35.6,190.2,148.2,42,3.73,3.6,17
-Buriganga River,Hazaribagh. .,11,2017,28.1,7.64,323,10,56,23.7,173.8,143.4,30,2.45,2.4,10
-Buriganga River,Kamrangir Char.,11,2017,27.8,7.62,318,10,72,19.9,157.8,136.8,21,2.08,3.2,10
-Buriganga River,Chadnighat. . ,11,2017,27.8,7.71,304,25,70,16.1,161.4,143.4,18,1.75,3.6,25
-Buriganga River,"Sadar Ghat, ",11,2017,27.3,7.5,315,10,72,16.7,159.1,140.1,19,2.3,2.6,10
-Buriganga River,"Dholaikhal, ",11,2017,27.1,7.6,306,13,62,16.2,157.1,140.1,17,1.43,5.6,13
-Buriganga River,"Bangladesh China Friendship Bridge, ",11,2017,27.2,7.47,301,22,62,11.3,151.2,138.2,13,2.14,8.8,22
-Buriganga River,Pagla. ,11,2017,27.1,7.51,310,23,64,12.2,166,152,14,1.4,8.2,23
-Shitalakhya River,Demra Ghat.,11,2017,27,7.38,131.7,6,120,19.4,83.2,66.2,17,3.8,8.2,24
-Shitalakhya River,Near Ghorashal Fertilizer Factory.,11,2017,27,7.49,121.7,7,110,36,84.2,61.2,23,5.2,5.1,17
-Shitalakhya River,Near ACI Factory.,11,2017,27.5,6.98,427,12,110,16.4,233.7,216.7,17,4.8,6.8,22
+Buriganga River,Hazaribagh,11,2017,28.1,7.64,323,10,56,23.7,173.8,143.4,30,2.45,2.4,10
+Buriganga River,Kamrangir Char,11,2017,27.8,7.62,318,10,72,19.9,157.8,136.8,21,2.08,3.2,10
+Buriganga River,Chadnighat,11,2017,27.8,7.71,304,25,70,16.1,161.4,143.4,18,1.75,3.6,25
+Buriganga River,"Sadar Ghat,11,2017,27.3,7.5,315,10,72,16.7,159.1,140.1,19,2.3,2.6,10
+Buriganga River,"Dholaikhal,11,2017,27.1,7.6,306,13,62,16.2,157.1,140.1,17,1.43,5.6,13
+Buriganga River,"Bangladesh China Friendship Bridge,11,2017,27.2,7.47,301,22,62,11.3,151.2,138.2,13,2.14,8.8,22
+Buriganga River,Pagla,11,2017,27.1,7.51,310,23,64,12.2,166,152,14,1.4,8.2,23
+Shitalakhya River,Demra Ghat,11,2017,27,7.38,131.7,6,120,19.4,83.2,66.2,17,3.8,8.2,24
+Shitalakhya River,Near Ghorashal Fertilizer Factory,11,2017,27,7.49,121.7,7,110,36,84.2,61.2,23,5.2,5.1,17
+Shitalakhya River,Near ACI Factory,11,2017,27.5,6.98,427,12,110,16.4,233.7,216.7,17,4.8,6.8,22
 Turag River,Near Gabtoli Bridge ,12,2017,24.8,7.69,472,21,200,18.2,260,244,16,1.2,6.4,23
-Turag River,Mirpur Diabari BIWTA Landing Station  ,12,2017,24.9,7.7,473,29,200,21.5,277,249,28,1,6.6,27
-Turag River,Asshulia BIWTA Landing Station ,12,2017,24.8,7.72,457,24,176,21.7,271,250,21,0.8,6.1,39
+Turag River,Mirpur Diabari BIWTA Landing Station,12,2017,24.9,7.7,473,29,200,21.5,277,249,28,1,6.6,27
+Turag River,Asshulia BIWTA Landing Station,12,2017,24.8,7.72,457,24,176,21.7,271,250,21,0.8,6.1,39
 Turag River,Tongi Istima Mat,12,2017,24.9,7.7,462,22,182,17.5,257,242,15,1.2,5.8,49
-Balu River,Near Jabar & Jubair Fabrics Ltd. Tongi.,12,2017,24.7,7.28,581,24,179,42.6,359,309,50,0.2,48,201
-Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi.",12,2017,20.8,7.21,688,24,174,40.8,415,368,47,0,42,200
-Balu River,"Near Damra University College, Demra Dhaka",12,2017,28.1,7.28,383,21,160,16.7,221,202.1,19,0.5,7.8,44
-Shitalakhya River,Demra Ghat.,12,2017,24.7,7.48,390,16,170,10.8,225,205.8,20,0,12.3,57
+Balu River,Near Jabar & Jubair Fabrics Ltd. Tongi,12,2017,24.7,7.28,581,24,179,42.6,359,309,50,0.2,48,201
+Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi,12,2017,20.8,7.21,688,24,174,40.8,415,368,47,0,42,200
+Balu River,"Near Damra University College, Demra Dhaka,12,2017,28.1,7.28,383,21,160,16.7,221,202.1,19,0.5,7.8,44
+Shitalakhya River,Demra Ghat,12,2017,24.7,7.48,390,16,170,10.8,225,205.8,20,0,12.3,57
 Shitalakhya River,Near Ghorashal Fertilizer Factory,12,2017,24.8,7.59,273,10,76,8.6,157,145,12,3.8,5.1,17
 Buriganga River,Mirpur Bridge,12,2017,24.9,7.4,530,34,190,20.7,286,261,25,1.5,5.4,14.7
 Buriganga River,Hazaribagh,12,2017,24.1,7.2,547,34,200,17.5,301,269,32,0.8,12,27
@@ -202,43 +202,43 @@ Buriganga River,Chadnighat,12,2017,24.1,7.05,756,32,190,28.9,440,375,64,0,18.6,5
 Buriganga River,Sadar Ghat,12,2017,24.1,7.28,544,30,190,9.65,303,269,34,0.7,8.4,32
 Buriganga River,Dholaikhal,12,2017,23.9,7.26,516,31,200,12.1,288,256,32,0.2,14.4,38
 Buriganga River,Bangladesh China Friendship Bridge,12,2017,23.9,7.06,520,32,210,12.5,300,267,33,0,8.6,34
-Buriganga River,Pagla. ,12,2017,23.9,7.35,550,31,210,18.5,308,272,36,0.2,9.6,32
-Turag River,Near Gabtoli Bridge ,1,2018,20.1,7,597,40,164,109,482,323,159,0,33,114
-Turag River,Mirpur Diabari BIWTA Landing Station  ,1,2018,19.7,6.99,586,35,164,124,459,309,150,0,24,106
-Turag River,Asshulia BIWTA Landing Station ,1,2018,19.6,7.31,538,37,170,54.8,374,293,81,0,37,142
+Buriganga River,Pagla,12,2017,23.9,7.35,550,31,210,18.5,308,272,36,0.2,9.6,32
+Turag River,Near Gabtoli Bridge,1,2018,20.1,7,597,40,164,109,482,323,159,0,33,114
+Turag River,Mirpur Diabari BIWTA Landing Station,1,2018,19.7,6.99,586,35,164,124,459,309,150,0,24,106
+Turag River,Asshulia BIWTA Landing Station,1,2018,19.6,7.31,538,37,170,54.8,374,293,81,0,37,142
 Turag River,Tongi Istima Mat,1,2018,19.8,7.04,600,50,152,44.5,384,326,58,0,86,241
-Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi.",1,2018,22.6,7.08,894,82,344,59,641,475,166,0,56,189
-Balu River,"Near Damra University College, Demra Dhaka",1,2018,21.8,7.24,817,82,280,106,587,431,156,0.5,42.6,196
-Shitalakhya River,Demra Ghat.,1,2018,18.8,7.24,590,38,220,12,387,314,73,0,20.4,68
+Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi,1,2018,22.6,7.08,894,82,344,59,641,475,166,0,56,189
+Balu River,"Near Damra University College, Demra Dhaka,1,2018,21.8,7.24,817,82,280,106,587,431,156,0.5,42.6,196
+Shitalakhya River,Demra Ghat,1,2018,18.8,7.24,590,38,220,12,387,314,73,0,20.4,68
 Shitalakhya River,Near Kachpur Bridge,1,2018,18.3,7.59,611,15,170,3.4,200,230,30,3.4,8.4,24
-Shitalakhya River,Near ACI Factory.,1,2018,18.8,7.48,610,42,240,22,388,320,68,0,24.2,72
+Shitalakhya River,Near ACI Factory,1,2018,18.8,7.48,610,42,240,22,388,320,68,0,24.2,72
 Buriganga River,Mirpur Bridge,1,2018,20.5,8.05,868,50,218,53.7,511,435,76,1.09,6.4,17
-Buriganga River,Hazaribagh. .,1,2018,20.7,7.72,761,43,198,31.4,425,382,43,1.52,8.2,25
-Buriganga River,Kamrangir Char.,1,2018,21.6,7.58,769,45,256,29.6,424,385,39,0.93,6.8,16
-Buriganga River,Chadnighat. . ,1,2018,23.5,7.42,837,60,264,73.1,501,418,83,0.67,24,57
-Buriganga River,"Sadar Ghat, ",1,2018,21.4,7.54,717,45,288,40.9,404,359,45,0.85,6.8,16
-Buriganga River,"Dholaikhal, ",1,2018,23.1,7.15,826,60,228,40.9,569,414,155,0.53,8.4,27
-Buriganga River,"Bangladesh China Friendship Bridge, ",1,2018,21.9,7.32,759,50,226,100,468,380,88,1.31,12,34
-Buriganga River,Pagla. ,1,2018,22.8,7.44,760,52,220,58.4,448,372,76,1.1,8.8,36
+Buriganga River,Hazaribagh,1,2018,20.7,7.72,761,43,198,31.4,425,382,43,1.52,8.2,25
+Buriganga River,Kamrangir Char,1,2018,21.6,7.58,769,45,256,29.6,424,385,39,0.93,6.8,16
+Buriganga River,Chadnighat,1,2018,23.5,7.42,837,60,264,73.1,501,418,83,0.67,24,57
+Buriganga River,"Sadar Ghat,1,2018,21.4,7.54,717,45,288,40.9,404,359,45,0.85,6.8,16
+Buriganga River,"Dholaikhal,1,2018,23.1,7.15,826,60,228,40.9,569,414,155,0.53,8.4,27
+Buriganga River,"Bangladesh China Friendship Bridge,1,2018,21.9,7.32,759,50,226,100,468,380,88,1.31,12,34
+Buriganga River,Pagla,1,2018,22.8,7.44,760,52,220,58.4,448,372,76,1.1,8.8,36
 Turag River,Near Gabtoli Bridge ,2,2018,25.4,7.57,923,56,280,67.1,564,450,114,1.25,28,69
-Turag River,Mirpur Diabari BIWTA Landing Station  ,2,2018,25.3,7.52,893,52,280,88.5,562,435,127,0.42,42,120
-Turag River,Asshulia BIWTA Landing Station ,2,2018,24.9,7.78,969,58,320,71.3,593,476,117,0.54,38,111
+Turag River,Mirpur Diabari BIWTA Landing Station,2,2018,25.3,7.52,893,52,280,88.5,562,435,127,0.42,42,120
+Turag River,Asshulia BIWTA Landing Station,2,2018,24.9,7.78,969,58,320,71.3,593,476,117,0.54,38,111
 Turag River,Tongi Istima Mat,2,2018,28.5,7.69,1156,70,320,52.2,652,539,113,0.52,36,93
-Balu River,Near Jabar & Jubair Fabrics Ltd. Tongi.,2,2018,24.6,7.29,1430,84,420,46.2,986,850,136,0.52,56,130
-Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi.",2,2018,25.4,6.89,1501,85,350,33.8,935,860,75,0.6,72,189
-Balu River,"Near Balu Bridge, 300 feet Road,  Dhaka",2,2018,28.9,7.12,943,56,340,46.2,551,485,66,0.8,14.4,57
-Shitalakhya River,Demra Ghat.,2,2018,25.3,7.1,809,60,280,21.8,455,411,44,1,24.6,118
-Shitalakhya River,Near Ghorashal Fertilizer Factory.,2,2018,24.7,7.47,364,35,180,10.8,210.5,183.5,27,5.2,1.4,8.4
-Shitalakhya River,Near ACI Factory.,2,2018,24.8,6.61,678,62,320,24.6,416,359,47,0.8,18.6,58
+Balu River,Near Jabar & Jubair Fabrics Ltd,2,2018,24.6,7.29,1430,84,420,46.2,986,850,136,0.52,56,130
+Balu River,"Near Hossain Dyeing Ltd,2,2018,25.4,6.89,1501,85,350,33.8,935,860,75,0.6,72,189
+Balu River,"Near Balu Bridge, 300 feet Road,  Dhaka,2,2018,28.9,7.12,943,56,340,46.2,551,485,66,0.8,14.4,57
+Shitalakhya River,Demra Ghat,2,2018,25.3,7.1,809,60,280,21.8,455,411,44,1,24.6,118
+Shitalakhya River,Near Ghorashal Fertilizer Factory,2,2018,24.7,7.47,364,35,180,10.8,210.5,183.5,27,5.2,1.4,8.4
+Shitalakhya River,Near ACI Factory,2,2018,24.8,6.61,678,62,320,24.6,416,359,47,0.8,18.6,58
 Buriganga River,Mirpur Bridge,2,2018,24,7.12,883,50,300,70.8,511,444,103,0,13.8,52
-Buriganga River,Hazaribagh. .,2,2018,24.4,7.19,885,62,314,77.6,425,441,67,0,15,56
-Buriganga River,Kamrangir Char.,2,2018,24.4,7.28,896,58,306,83.7,424,446,71,0,18,62
-Buriganga River,Chadnighat. . ,2,2018,24.5,7.23,904,60,320,128,501,449,99,0,12.6,48
-Buriganga River,"Sadar Ghat, ",2,2018,24.4,7.21,895,64,342,,404,445,93,0,18.6,64
-Buriganga River,"Dholaikhal, ",2,2018,24.5,7.23,886,64,228,154,569,441,104,0,14.4,53
-Buriganga River,"Bangladesh China Friendship Bridge, ",2,2018,24.6,7.22,890,61,336,135,468,442,109,0,16.2,60
-Buriganga River,Pagla. ,2,2018,24.6,7.27,898,65,326,94.4,448,445,73,0,12.6,49
-Turag River,Near Gabtoli Bridge ,3,2018,28.5,7.42,1148,83,328,86,704,598,106,1.47,12.4,38
+Buriganga River,Hazaribagh,2,2018,24.4,7.19,885,62,314,77.6,425,441,67,0,15,56
+Buriganga River,Kamrangir Char,2,2018,24.4,7.28,896,58,306,83.7,424,446,71,0,18,62
+Buriganga River,Chadnighat ,2,2018,24.5,7.23,904,60,320,128,501,449,99,0,12.6,48
+Buriganga River,"Sadar Ghat,2,2018,24.4,7.21,895,64,342,,404,445,93,0,18.6,64
+Buriganga River,"Dholaikhal,2,2018,24.5,7.23,886,64,228,154,569,441,104,0,14.4,53
+Buriganga River,"Bangladesh China Friendship Bridge,2,2018,24.6,7.22,890,61,336,135,468,442,109,0,16.2,60
+Buriganga River,Pagla,2,2018,24.6,7.27,898,65,326,94.4,448,445,73,0,12.6,49
+Turag River,Near Gabtoli Bridge,3,2018,28.5,7.42,1148,83,328,86,704,598,106,1.47,12.4,38
 Turag River,Mirpur Diabari BIWTA Landing Station  ,3,2018,28.5,7.49,1135,82,356,93,714,591,123,1.07,24,112
 Turag River,Asshulia BIWTA Landing Station ,3,2018,28.8,7.62,1343,82,366,120,835,695,140,0.5,18.4,84
 Turag River,Tongi Istima Mat,3,2018,28.4,7.84,1418,83,368,128,892,746,148,0.9,22.4,86
@@ -303,9 +303,9 @@ Turag River,Asshulia BIWTA Landing Station ,8,2018,29,7.29,120,11,58,115,172.1,6
 Turag River,Tongi Istima Mat,8,2018,29.7,7.34,110,12,60,81.7,135.2,55.2,80,5.4,2.4,10
 Balu River,Near Jabar & Jubair Fabrics Ltd. Tongi.,8,2018,31.6,7.83,120,12,58,76.6,150,61.8,89,5.3,3.3,10
 Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi.",8,2018,31.7,7.75,110,11,60,78.2,141,55.6,76,5.3,3.3,10
-Balu River,"Near Balu Bridge, 300 feet Road,  Dhaka",8,2018,30,7.64,97.7,NAN,NAN,NAN,NAN,41.3,NAN,2.53,NAN,NAN
+Balu River,"Near Balu Bridge, 300 feet Road,  Dhaka",8,2018,30,7.64,97.7,56,340,46.2,551,41.3,10,2.53,1.6,13
 Balu River,"Near Damra University College, Demra Dhaka",8,2018,30.6,7.8,105.2,12,62,77.4,136,45,82,3.04,5.1,10
-Shitalakhya River,Demra Ghat.,8,2018,30.1,8.66,87.8,11,64,76.6,NAN,37.4,86,5.79,2.3,12
+Shitalakhya River,Demra Ghat.,8,2018,30.1,8.66,87.8,11,64,76.6,129,37.4,86,5.79,2.3,12
 Buriganga River,Mirpur Bridge,8,2018,31.2,7.3,172.9,10,34,93.4,142.6,72.6,100,5.28,1.2,12
 Buriganga River,Hazaribagh. .,8,2018,31.2,7.21,171.2,10,34,84.6,140.5,71.9,99,5.26,1.6,10
 Buriganga River,Kamrangir Char.,8,2018,30.6,7.03,171.6,9,44,83.3,143.7,72.9,102,5.27,1.6,12
@@ -318,12 +318,12 @@ Turag River,Mirpur Diabari BIWTA Landing Station  ,9,2018,28.3,8.48,91.4,8,54,39
 Turag River,Asshulia BIWTA Landing Station ,9,2018,30.8,8.41,115.9,12,58,20.5,172.1,48.7,14,6.32,2.4,14
 Turag River,Tongi Istima Mat,9,2018,29.5,8.32,98.1,6,60,22.8,135.2,42.7,14,5.44,1.8,10
 Balu River,Near Jabar & Jubair Fabrics Ltd. Tongi.,9,2018,28.8,8.28,163,8,58,14.1,73.7,73.7,10,4.99,4.6,19
-Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi.",9,2018,31.7,7.75,107.7,7,60,15.2,141,47.7,15,5.23,5.2,22
-Balu River,"Near Balu Bridge, 300 feet Road,  Dhaka",9,2018,30,7.29,196.1,8,NAN,7.34,NAN,96.3,10,2.53,1.6,12
+Balu River,"Near Hossain Dyeing Ltd, Pagar, Tongi,9,2018,31.7,7.75,107.7,7,60,15.2,141,47.7,15,5.23,5.2,22
+Balu River,"Near Balu Bridge, 300 feet Road,  Dhaka,9,2018,30,7.29,196.1,8,120,7.34,691,96.3,10,2.53,1.6,12
 Balu River,"Near Damra University College, Demra Dhaka",9,2018,30.6,7.8,105.2,9,62,77.4,136,45,82,3.04,5.2,10
-Shitalakhya River,Demra Ghat.,9,2018,30.1,8.66,87.8,8,64,24.5,NAN,37.4,25,5.79,2.4,12
+Shitalakhya River,Demra Ghat.,9,2018,30.1,8.66,87.8,8,64,24.5,103.1,37.4,25,5.79,2.4,12
 Shitalakhya River,Near Ghorashal Fertilizer Factory.,9,2018,29.1,7.36,158.6,7,58,24.5,162,77.6,25,6.2,1.4,11
-Shitalakhya River,Near ACI Factory.,9,2018,NAN,7.24,312,NAN,110,NAN,NAN,155.1,NAN,3.8,12.4,61
+Shitalakhya River,Near ACI Factory,9,2018,20.1,7.24,312,12,110,23.1,103.1,155.1,18,3.8,12.4,61
 Buriganga River,Mirpur Bridge,9,2018,31.2,8.17,189.8,10,56,37.4,105.8,79.8,26,4.93,2,12
 Buriganga River,Hazaribagh. .,9,2018,30.6,7.31,194.5,10,56,28.5,112.7,82.7,30,4.28,2.2,10
 Buriganga River,Kamrangir Char.,9,2018,30.7,7.29,191.5,12,52,31.7,109.3,81.3,28,3.53,2.4,10
@@ -498,7 +498,7 @@ Buriganga River,Chadnighat. . ,7,2019,26.5,6.79,226,16,107,7.81,111.1,104.1,7,1,
 Buriganga River,"Sadar Ghat, ",7,2019,26.4,6.8,191,13,85,12.7,106.1,88.1,18,1.1,5.5,14
 Buriganga River,"Dholaikhal, ",7,2019,25.7,6.81,180.8,14,87,5.96,89.4,84.4,5,2,4.5,12
 Buriganga River,"Bangladesh China Friendship Bridge, ",7,2019,26.1,6.7,183.9,14.5,75,4.31,85.2,85.2,6,2.2,5,16
-Buriganga River,Pagla. ,7,2019,26.2,6.71,187.2,NAN,81,4.34,87.7,86.7,10,2.3,6,10
+Buriganga River,Pagla. ,7,2019,26.2,6.71,187.2,66,81,4.34,87.7,86.7,10,2.3,6,10
 Turag River,Near Gabtoli Bridge ,8,2019,28.9,7.12,126.6,21,52,30.2,94,61,33,5.4,0.6,10
 Turag River,Mirpur Diabari BIWTA Landing Station  ,8,2019,28.9,6.96,148.3,24,45,23.3,93.8,71.8,22,4.7,12,22
 Turag River,Asshulia BIWTA Landing Station ,8,2019,28.7,7.18,167.8,18,42,35.5,119.8,80.8,39,6.2,0.9,8
